@@ -19,7 +19,7 @@ The following packages must be installed in order to make the scripts work:
 
 **dark-rt-toolkit/tk1-random** is for retrieving a random sample, where tweets are selected at random from the Twitter stream, meaning that the number of sampled tweets is close to the number of sampled URLs.
 
-**dark-rt-toolkit/tk2-url-drill-down** is for retrieving URL drill-downs, where all the tweets which contain a given URL gets classied by the same toolkit, meaning that the number of sampled tweets is much higher than the number of sampled URLs, as each URL is represented by many tweets.
+**dark-rt-toolkit/tk2-url-drill-down** is for retrieving URL drill-downs, where all the tweets which contain a given URL gets classified by the same toolkit, meaning that the number of sampled tweets is much higher than the number of sampled URLs, as each URL is represented by many tweets.
 
 
 ## User inputs
